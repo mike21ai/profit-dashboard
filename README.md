@@ -2,7 +2,7 @@ D# profit-dashboard
 Profit Dashboard
 
 # Overview Dashboard
-<img width="1085" height="645" alt="image" src="https://github.com/user-attachments/assets/be89c372-3bf9-4ef5-a315-282dd622b658" />
+<img width="1132" height="643" alt="image" src="https://github.com/user-attachments/assets/e1e921cc-e973-4816-b797-dc8887d82b6c" />
 
 # Margin Dashboard
 <img width="1107" height="628" alt="image" src="https://github.com/user-attachments/assets/ad33a525-3c49-4537-ad09-c9286dfb54e2" />
